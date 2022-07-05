@@ -105,7 +105,7 @@ const Home = () => {
                        </StyledP>
                      <ResumeA data-aos = "fade-down" href = "https://drive.google.com/file/d/1Jal1-HGd3GFvyKxuicBAY5JCCiuyvG_s/view?usp=sharing" target = "_blank" title = "Resume" rel="noopener noreferrer" >RESUME</ResumeA>
                       
-                        <IconDiv data-aos = "fade-right">
+                        <IconDiv>
                     
                                <a href = "https://www.linkedin.com/in/md-tabish-3099a4213" target = "_blank" title = "Linkedin" rel="noopener noreferrer" > <Linkedin className = "linkedin"/></a>
                                 <a href = "https://github.com/mdtabish803116" target = "_blank" title = "Github" rel="noopener noreferrer" > <Github /> </a>
