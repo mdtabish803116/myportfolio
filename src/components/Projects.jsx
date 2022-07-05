@@ -166,7 +166,7 @@ const Projects = () => {
                                      <li> Online store of spare parts of car where user can explore the page and go through it.</li>  
                                      <li> There are add to Cart functionality and increase or decrease the items also.  </li>
                                      <li> CheckOut and Payment page also implemented where user go to payment.</li>
-                                      <li> Collaborative Project with the team size of five members duration one week.</li>
+                                      <li> Collaborative Project with the team size of five members in the duration of one week.</li>
                                       </ul>
                                      
                                      <AnchorDiv> 
@@ -189,9 +189,9 @@ const Projects = () => {
                                      <div>Myfitnesspal Clone</div>  
                                      <ul>
                                      <li> This is a fitnesspal website where user can maintain his Calorie according to their weight and age.</li>  
-                                     <li> There is are calution of Body Mass Index and Basal metabolic rate and also there are Crousel </li>
-                                     <li> LOgin page , signup page and  Payment page are also implemented here.</li>
-                                     <li> Collaborative Project with the team size of five members duration one week.</li>
+                                     <li> There is calution of Body Mass Index and Basal metabolic rate and also there are Carousel </li>
+                                     <li> Login page , signup page and  Payment page are also implemented here.</li>
+                                     <li> Collaborative Project with the team size of five members in the duration of one week.</li>
                                       </ul>
                                      
                                      <AnchorDiv> 
@@ -215,7 +215,7 @@ const Projects = () => {
                                      <li> This is a shopping wbsite for different types of headphones and watches.</li>  
                                      <li> There are add to Cart functionality and checkout Page.  </li>
                                      <li> In homepage sliding Show of products and some crousel also to show the product.</li>
-                                     <li> Collaborative Project with the team size of four members duration one week.</li>
+                                     <li> Collaborative Project with the team size of four members in the duration of one week.</li>
                                       </ul>
                                      
                                      <AnchorDiv> 
