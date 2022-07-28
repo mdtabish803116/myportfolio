@@ -103,7 +103,7 @@ const Home = () => {
                        <br></br>
                        Full Stack Web Developer
                        </StyledP>
-                     <ResumeA data-aos = "fade-down" href = "https://drive.google.com/file/d/1Jal1-HGd3GFvyKxuicBAY5JCCiuyvG_s/view?usp=sharing" target = "_blank" title = "Resume" rel="noopener noreferrer" >RESUME</ResumeA>
+                     <ResumeA data-aos = "fade-down" href = "https://drive.google.com/file/d/1wX1welvFpSlaQ9-T1oYuGep_bMRhIAo6/view?usp=sharing" target = "_blank" title = "Resume" rel="noopener noreferrer" >RESUME</ResumeA>
                       
                         <IconDiv>
                     

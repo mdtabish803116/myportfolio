@@ -170,7 +170,7 @@ const Projects = () => {
                                       </ul>
                                      
                                      <AnchorDiv> 
-                                        <StyledA href = "https://sparestab.netlify.app/" target = "_blank" title = "Spareshub" rel="noopener noreferrer">DEMO</StyledA>
+                                        <StyledA href = "https://spareshubclone.netlify.app/" target = "_blank" title = "Spareshub" rel="noopener noreferrer">DEMO</StyledA>
                                         <StyledA href = "https://github.com/mdtabish803116/SpareshubWeakProject.git" target = "_blank" title = "Spareshub" rel="noopener noreferrer">CODE</StyledA>
                                      </AnchorDiv>
                                     

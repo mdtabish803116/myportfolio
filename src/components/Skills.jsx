@@ -70,12 +70,12 @@ const GridDiv = Styled.div`
         text-align : center;
        }
 
-       &>div:nth-child(9){
-         grid-column-start : 2;
+       // &>div:nth-child(9){
+       //   grid-column-start : 2;
 
-         @media (max-width : 768px){
-              grid-column-start : 3;
-         }
+       //   @media (max-width : 768px){
+       //        grid-column-start : 3;
+       //   }
 
        }`
 
@@ -126,6 +126,13 @@ const Skills = () => {
 
                             <div  data-aos = "fade-down">
                                    <div>
+                                         <img alt = "redux" src = {"redux.png"}/>
+                                   </div>
+                                   <p>REDUX</p>
+                            </div>
+
+                            <div  data-aos = "fade-down">
+                                   <div>
                                          <img alt = "json" src = {"json.png"}/>
                                    </div>
                                    <p>JSON-SERVER</p>
@@ -143,6 +150,13 @@ const Skills = () => {
                                          <img alt = "nodejs" src = {"nodejs.png"}/>
                                    </div>
                                    <p>NODE JS</p>
+                            </div>
+
+                            <div  data-aos = "fade-down">
+                                   <div>
+                                         <img alt = "mongodb" src = {"mongodb.png"}/>
+                                   </div>
+                                   <p>MONGODB</p>
                             </div>
 
                             <div data-aos = "fade-down">
